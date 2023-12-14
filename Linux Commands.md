@@ -18,7 +18,8 @@ mkdir directory_name
 #### This command is used to create a new directory (folder) in the file system.
 
 
-![Local Image](Screenshot%20from%202023-12-14%2011-35-40.jpg)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/22e08a92-8b7c-4570-8d18-0be532e50cff)
+
 
 ##
 
@@ -37,8 +38,8 @@ cd directory_name
  ```
  ### This command can remove an empty directory.
 
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/b6a699e1-b2b8-409f-bfb5-0fe3de5ed4b2)
 
- ![Local Image](Screenshot%20from%202023-12-14%2011-50-54.jpg)
 
 * We have to use the cd command to come out of the particular directory/folder before we delete it because it cannot be deleted if it is already open. 
 
@@ -52,7 +53,8 @@ cd directory_name
  rm -r  dirrectory_name
  ```
  
-![Local Image](Screenshot%20from%202023-12-14%2012-07-06.jpg)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/32941043-21a6-4ed3-807a-fa88500286df)
+
 
 ##
 
@@ -62,7 +64,7 @@ touch filename
 ```
 ### The touch command is used to create an empty file. If the file already exists, it updates the timestamp.
 
-![Alt text](<Screenshot from 2023-12-14 12-38-06.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/a71a231e-24e4-4e0f-aa3a-33494adab20f)
 
 * In the above picture, we can see a command 'ls,' which is used to see existing files in a directory.
 
@@ -76,7 +78,7 @@ rm file1 file2 file3
 
 ### The rm command is used to remove (delete) files. You can provide multiple file names separated by spaces to remove them in a single command.
 
-![Alt text](<Screenshot from 2023-12-14 13-05-26.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/3f8d1651-810b-4f9d-ac81-647403f3cf30)
 
 * If there are files of the same format, they can be deleted by :-
 ```
@@ -94,7 +96,7 @@ mkdir dir_name1 dir_name1 dir_name1 ...
 ```
 ### This command uses brace expansion to create directories from "a" to "z." Each letter represents a separate directory. The {a..z} syntax generates the range of letters. 
 
-![Alt text](<Screenshot from 2023-12-14 14-15-25.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/4e82a61f-5d59-42cb-ae02-da6e1853a602)
 
 ##
 
@@ -102,7 +104,7 @@ mkdir dir_name1 dir_name1 dir_name1 ...
 
 ### This command copies a file from the source to the destination. You can use a dot (.) as the destination to copy the file to the current working directory.
 
-![Alt text](<Screenshot from 2023-12-14 14-23-11.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/1d98f675-a01c-414a-923d-f3ab37fc631d)
 
 * In this command, we have to use another command 'pwd' to know the path of the folder in which we want to copy the file.
 ```
@@ -119,14 +121,14 @@ pwd
 ```
 mv file_name destination
 ```
-![Alt text](<Screenshot from 2023-12-14 14-33-34.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/60552229-5bbb-4dba-b08c-4955771b80d4)
 
 *To reame :-*
 
 ```
 mv old_name new_name
 ```
-![Alt text](<Screenshot from 2023-12-14 14-35-18.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/e910a77f-8906-4bfb-813e-1e7a2a7ab536)
 
 ##
 
@@ -137,8 +139,9 @@ mv old_name new_name
 rm -r folder/*
 ```
 
-![Alt text](<Screenshot from 2023-12-14 14-43-53.png>)
+![image](https://github.com/raahulahlawat/Linux-Commands/assets/151362887/93764640-e530-4b56-92f9-b9b3d84fb959)
 
+##
 ##
 
 *Document By Rahul Ahlawat*
