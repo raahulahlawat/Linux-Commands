@@ -2,7 +2,7 @@
 
 * mkdir
 * touch
-* rmdir 
+* rm dir 
 * cp
 * mv
 * rm
