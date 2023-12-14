@@ -44,7 +44,7 @@ cd directory_name
 * We have to use the cd command to come out of the particular directory/folder before we delete it because it cannot be deleted if it is already open. 
 
 ```
-cd directory_name
+cd
 ```
 
 ### To remove the directory/folder by using the rmdir the directory/folder must be empty and If there is any file in the directory/folder it will be removed by the following commandd :-
